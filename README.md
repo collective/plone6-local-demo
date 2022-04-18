@@ -35,7 +35,7 @@ To clean up the images, use:
 
 
 ```bash
-make down
+make stop
 ```
 
 ## Used for
