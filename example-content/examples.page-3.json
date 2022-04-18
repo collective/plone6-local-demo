@@ -1,0 +1,12 @@
+{
+  "@type": "Document",
+  "title": "Distributed Computing",
+  "description": "Through research on resource and data management, workflows, virtualisation, and security we foster the easy and secure access to distributed systems and data that builds the foundation for the exploitation of results across scientific domains.",
+  "review_state": "published",
+  "subjects": [
+    "High Performance Computing"
+  ],
+  "set_local_image": {
+    "preview_image": "image-3.jpg"
+  }
+}

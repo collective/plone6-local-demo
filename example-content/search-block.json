@@ -1,0 +1,65 @@
+{
+    "@type": "Document",
+    "blocks": {
+        "55f360a7-3f41-4fa2-be0e-c4b665b11008": {
+            "@type": "title"
+        },
+        "f35e6f8c-b618-4959-8a6e-4b1d8896a014": {
+            "@type": "search",
+            "facets": [
+                {
+                    "@id": "e7a497a8-bc45-4636-9ca8-961bb1956018",
+                    "field": {
+                        "label": "Type",
+                        "value": "portal_type"
+                    }
+                },
+                {
+                    "@id": "a15baadc-631f-457a-a8f3-0d6a7b1beeaa",
+                    "field": {
+                        "label": "Tag",
+                        "value": "Subject"
+                    },
+                    "multiple": true,
+                    "type": "checkboxFacet"
+                }
+            ],
+            "query": {
+                "query": [
+                    {
+                        "i": "path",
+                        "o": "plone.app.querystring.operation.string.absolutePath",
+                        "v": "/examples"
+                    }
+                ],
+                "sort_order": "ascending"
+            }
+        },
+        "b676d328-3aa1-4ce5-909e-c192516ba3e1": {
+            "@type": "slate",
+            "plaintext": "",
+            "value": [
+                {
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ],
+                    "type": "p"
+                }
+            ]
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "55f360a7-3f41-4fa2-be0e-c4b665b11008",
+            "f35e6f8c-b618-4959-8a6e-4b1d8896a014",
+            "b676d328-3aa1-4ce5-909e-c192516ba3e1"
+        ]
+    },
+    "id": "search-block",
+    "title": "Search",
+    "description": "",
+    "review_state": "published",
+    "subjects": []
+}

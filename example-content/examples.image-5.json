@@ -1,0 +1,13 @@
+{
+  "@type": "Image",
+  "title": "Image 5",
+  "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+  "review_state": "published",
+  "set_local_image": {
+    "image": "image-5.jpg"
+  },
+  "rights": "Photo by Moritz Kindler on Unsplash: https://unsplash.com/photos/G66K_ERZRhM",
+  "subjects": [
+    "Astrophysics"
+  ]
+}

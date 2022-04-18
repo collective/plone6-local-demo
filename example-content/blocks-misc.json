@@ -1,0 +1,257 @@
+{
+  "@type": "Document",
+  "blocks": {
+    "5998e21d-b0e2-4f02-bfda-4f73095a2538": {
+      "@type": "accordion",
+      "data": {
+        "blocks": {
+          "2af74f20-a840-4bbb-94d8-be7f09ef4fce": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "28760dfc-4d22-4357-bb4e-1d50b1b8c5e1": {
+                "@type": "listing",
+                "block": "28760dfc-4d22-4357-bb4e-1d50b1b8c5e1",
+                "query": [],
+                "querystring": {
+                  "limit": "4",
+                  "query": [
+                    {
+                      "i": "path",
+                      "o": "plone.app.querystring.operation.string.absolutePath",
+                      "v": "/examples"
+                    },
+                    {
+                      "i": "portal_type",
+                      "o": "plone.app.querystring.operation.selection.any",
+                      "v": [
+                        "Document"
+                      ]
+                    }
+                  ],
+                  "sort_order": "ascending"
+                },
+                "variation": "summary"
+              },
+              "d6a1e0b0-6e24-47af-98d1-87d660854a65": {
+                "@type": "slate",
+                "plaintext": "",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "28760dfc-4d22-4357-bb4e-1d50b1b8c5e1",
+                "d6a1e0b0-6e24-47af-98d1-87d660854a65"
+              ]
+            },
+            "title": "Distributed Computing"
+          },
+          "414faa9a-6fdb-4f1b-aa8f-e9589e005d6f": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "6ee2162d-e3ad-423e-a0a6-065f4789839e": {
+                "@type": "slate",
+                "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              "894adc70-8917-4b3a-82ed-eb602b7ece39": {
+                "@type": "image",
+                "align": "right",
+                "alt": "Image 1",
+                "url": "/examples/image-1"
+              },
+              "c9c0df34-4b48-4432-89bf-ea76ab97b713": {
+                "@type": "slate",
+                "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              "d9f4b18b-bfcd-42ee-985b-bb161f615490": {
+                "@type": "slate",
+                "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              "f042029e-f8c1-4530-ae29-ed69a20a003e": {
+                "@type": "slate",
+                "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "894adc70-8917-4b3a-82ed-eb602b7ece39",
+                "f042029e-f8c1-4530-ae29-ed69a20a003e",
+                "c9c0df34-4b48-4432-89bf-ea76ab97b713",
+                "6ee2162d-e3ad-423e-a0a6-065f4789839e",
+                "d9f4b18b-bfcd-42ee-985b-bb161f615490"
+              ]
+            },
+            "selected": "f042029e-f8c1-4530-ae29-ed69a20a003e",
+            "title": "Modelling and Simulartion"
+          },
+          "77f4ca44-48fb-44c1-b76d-a4f91d79465d": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "4474b855-71a3-4425-afe1-da843aece621": {
+                "@type": "slate",
+                "plaintext": "",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              "d4b428b5-cbb8-4c23-86eb-d04f6510c02c": {
+                "@type": "__grid",
+                "columns": [
+                  {
+                    "@type": "teaser",
+                    "description": "The simulation of complex systems in natural science or engineering depends on the development of adequate mathematical models. Thus the development of realistic and yet efficient models is one of our core activities.",
+                    "href": [
+                      {
+                        "@id": "/examples/page-1",
+                        "Description": "The simulation of complex systems in natural science or engineering depends on the development of adequate mathematical models. Thus the development of realistic and yet efficient models is one of our core activities.",
+                        "Title": "Modelling and Simulation",
+                        "hasPreviewImage": true,
+                        "head_title": null,
+                        "title": "Modelling and Simulation"
+                      }
+                    ],
+                    "id": "efdea616-a9f1-424f-aad6-e17be27e2080",
+                    "title": "Modelling and Simulation"
+                  },
+                  {
+                    "@type": "teaser",
+                    "description": "There is a broad class of algorithms and methods that are common to several scientific or engineering problems. Ideally, the development of simulation programs follows a layered design in which generic methods are applied to create or extend domain-specific solutions.",
+                    "href": [
+                      {
+                        "@id": "/examples/page-2",
+                        "Description": "There is a broad class of algorithms and methods that are common to several scientific or engineering problems. Ideally, the development of simulation programs follows a layered design in which generic methods are applied to create or extend domain-specific solutions.",
+                        "Title": "Algorithms and Methods",
+                        "hasPreviewImage": true,
+                        "head_title": null,
+                        "title": "Algorithms and Methods"
+                      }
+                    ],
+                    "id": "00cfddd3-6f7d-421d-9e4b-b449a0f10da3",
+                    "title": "Algorithms and Methods"
+                  },
+                  {
+                    "@type": "teaser",
+                    "description": "Through research on resource and data management, workflows, virtualisation, and security we foster the easy and secure access to distributed systems and data that builds the foundation for the exploitation of results across scientific domains.",
+                    "href": [
+                      {
+                        "@id": "/examples/page-3",
+                        "Description": "Through research on resource and data management, workflows, virtualisation, and security we foster the easy and secure access to distributed systems and data that builds the foundation for the exploitation of results across scientific domains.",
+                        "Title": "Distributed Computing",
+                        "hasPreviewImage": true,
+                        "head_title": null,
+                        "title": "Distributed Computing"
+                      }
+                    ],
+                    "id": "9b36f4c5-8900-401a-9b51-8d1b36a7d6c0",
+                    "title": "Distributed Computing"
+                  }
+                ]
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "d4b428b5-cbb8-4c23-86eb-d04f6510c02c",
+                "4474b855-71a3-4425-afe1-da843aece621"
+              ]
+            },
+            "title": "Algorithms and Methods"
+          }
+        },
+        "blocks_layout": {
+          "items": [
+            "414faa9a-6fdb-4f1b-aa8f-e9589e005d6f",
+            "77f4ca44-48fb-44c1-b76d-a4f91d79465d",
+            "2af74f20-a840-4bbb-94d8-be7f09ef4fce"
+          ]
+        }
+      },
+      "headline": "Accordion Block",
+      "right_arrows": true
+    },
+    "67161809-2f12-457b-b077-962b8b953e52": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8816a479-1394-4c58-99f9-39b226d72c87": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "8816a479-1394-4c58-99f9-39b226d72c87",
+      "5998e21d-b0e2-4f02-bfda-4f73095a2538",
+      "67161809-2f12-457b-b077-962b8b953e52"
+    ]
+  },
+  "id": "blocks-misc",
+  "title": "Blocks",
+  "description": "",
+  "review_state": "private",
+  "subjects": []
+}

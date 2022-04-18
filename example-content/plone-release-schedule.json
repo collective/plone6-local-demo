@@ -1,0 +1,10 @@
+{
+    "@type": "Image",
+    "title": "Plone Release Schedule",
+    "description": "",
+    "review_state": "published",
+    "set_local_image": {
+      "image": "plone-release-schedule.png"
+    },
+    "show_in_nav": false
+  }

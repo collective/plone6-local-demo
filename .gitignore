@@ -1,0 +1,12 @@
+*.py?
+bin/
+etc/
+include/
+lib/
+lib64/
+# excludes
+!.editorconfig
+!.gitattributes
+!.gitignore
+!.gitkeep
+pyvenv.cfg

@@ -1,0 +1,13 @@
+{
+  "@type": "Image",
+  "title": "Image 1",
+  "description": "I was up early on a very cold morning in New Mexico to ride my motorcycle back toward home (Phoenix). The sun started coming up so I stopped to get some warmth and was captivated by these eerie looking radio telescopes. The dawn light gave me just the feeling I was experiencing at the time. I spent about an hour there making images in that soft side light. Warmer, I hopped on the cruiser and headed out. It was still cold though… dang.",
+  "review_state": "published",
+  "set_local_image": {
+    "image": "image-1.jpg"
+  },
+  "rights": "Photo by Donald Giannatti on Unsplash: https://unsplash.com/photos/Wj1D-qiOseE",
+  "subjects": [
+    "Astrophysics"
+  ]
+}

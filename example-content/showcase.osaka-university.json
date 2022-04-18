@@ -1,0 +1,70 @@
+{
+  "@type": "Document",
+  "set_local_image": {
+    "preview_image": "showcase-osaka-university.png"
+  },
+  "blocks": {
+    "fe8111c1-0848-45e5-8d5f-9a9edd099313": {
+      "@type": "title"
+    },
+    "e8646ecb-0116-40d9-a8c5-e0be61e9baa5": {
+      "@type": "slate",
+      "plaintext": "Official Website of the Osaka University, Japan.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Official Website of the Osaka Univerisity, Japan."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5c57d89c-6604-4b30-8fb2-6a5d79b01f52": {
+      "@type": "image",
+      "alt": "Image",
+      "url": "/image"
+    },
+    "98532db2-3259-4173-a743-950842c5e82a": {
+      "@type": "buttonBlock",
+      "align": "center",
+      "bg_color": null,
+      "href": [
+        {
+          "@id": "https://www.osaka-u.ac.jp/",
+          "title": "www.osaka-u.ac.jp/"
+        }
+      ],
+      "title": "Go To Website"
+    },
+    "8133541b-2f69-45dd-ab0f-3c6b3b9cd757": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "fe8111c1-0848-45e5-8d5f-9a9edd099313",
+      "e8646ecb-0116-40d9-a8c5-e0be61e9baa5",
+      "5c57d89c-6604-4b30-8fb2-6a5d79b01f52",
+      "98532db2-3259-4173-a743-950842c5e82a",
+      "8133541b-2f69-45dd-ab0f-3c6b3b9cd757"
+    ]
+  },
+  "id": "osaka-university",
+  "title": "Osaka University",
+  "description": "Official Website of the Osaka University, Japan.",
+  "review_state": "published",
+  "subjects": []
+}

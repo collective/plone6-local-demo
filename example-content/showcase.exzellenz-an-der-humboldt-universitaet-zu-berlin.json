@@ -1,0 +1,25 @@
+{
+	"@type": "Document",
+	"blocks": {
+		"d090d047-b642-4728-b266-fb2248532d15": {
+			"@type": "title"
+		},
+		"e492fd22-3d6b-4018-903c-d0a55a9b7d2b": {
+			"@type": "slate"
+		}
+	},
+	"blocks_layout": {
+		"items": [
+			"d090d047-b642-4728-b266-fb2248532d15",
+			"e492fd22-3d6b-4018-903c-d0a55a9b7d2b"
+		]
+	},
+	"id": "exzellenz-an-der-humboldt-universitaet-zu-berlin",
+	"title": "Exzellenz an der Humboldt-Universität zu Berlin",
+	"description": "",
+	"review_state": "published",
+	"subjects": [],
+	"set_local_image": {
+		"preview_image": "showcase-hu-exzellenz.png"
+	}
+}

@@ -1,0 +1,39 @@
+{
+  "@type": "Document",
+  "title": "Example Content",
+  "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+  "review_state": "published",
+  "exclude_from_nav": "true",
+  "blocks": {
+    "aa0729a0-bc1a-4511-8546-82c129689a63": {
+      "@type": "title"
+    },
+    "4418a4b6-717d-483d-a87f-cdb794f8a05f": {
+      "@type": "listing",
+      "block": "4418a4b6-717d-483d-a87f-cdb794f8a05f",
+      "query": [],
+      "variation": "summary"
+    },
+    "a160caf5-b658-433d-b671-bcbd2d61796f": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "aa0729a0-bc1a-4511-8546-82c129689a63",
+      "4418a4b6-717d-483d-a87f-cdb794f8a05f",
+      "a160caf5-b658-433d-b671-bcbd2d61796f"
+    ]
+  }
+}

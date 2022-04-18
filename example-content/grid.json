@@ -1,0 +1,900 @@
+{
+  "@type": "Document",
+  "blocks": {
+    "d3f1c443-583f-4e8e-a682-3bf25752a300": {
+      "@type": "title"
+    },
+    "19a327d9-6293-4e80-96be-836ef5a0fc77": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b522b9f9-8da3-43d5-b6bd-45f6e289403e": {
+      "@type": "slate",
+      "plaintext": "Plone 6 allows editors to build sophisticated multi-column page layouts with the Grid Block.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone 6 allows editors to build sophisticated multi-column page layouts with the Grid Block."
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "dc23726a-aa0a-40cd-9004-96bca86a578d": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f0e70018-c10d-4136-9c4d-2f766d7ec40e": {
+      "@type": "heading",
+      "heading": "TEASER GRID"
+    },
+    "ba076661-72f2-48c8-aaa6-b054f40b6c85": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "teaser",
+          "description": "The simulation of complex systems in natural science or engineering depends on the development of adequate mathematical models. Thus the development of realistic and yet efficient models is one of our core activities.",
+          "href": [
+            {
+              "@id": "/examples/page-1",
+              "Description": "The simulation of complex systems in natural science or engineering depends on the development of adequate mathematical models. Thus the development of realistic and yet efficient models is one of our core activities.",
+              "Title": "Modelling and Simulation",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Modelling and Simulation"
+            }
+          ],
+          "id": "c5c96fcd-88fb-4285-861f-cca4a5e8d2b3",
+          "title": "Modelling and Simulation"
+        },
+        {
+          "@type": "teaser",
+          "description": "There is a broad class of algorithms and methods that are common to several scientific or engineering problems. Ideally, the development of simulation programs follows a layered design in which generic methods are applied to create or extend domain-specific solutions. \n",
+          "href": [
+            {
+              "@id": "/examples/page-2",
+              "Description": "Efficient simulations need powerful algorithms and methods.",
+              "Title": "Algorithms and Methods",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Algorithms and Methods"
+            }
+          ],
+          "id": "40257901-1d26-4e8d-a113-ebe15a913a34",
+          "title": "Algorithms and Methods"
+        }
+      ]
+    },
+    "19d511fc-34bc-4c47-b2a7-457205ecf290": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "teaser",
+          "description": "Through research on resource and data management, workflows, virtualisation, and security we foster the easy and secure access to distributed systems and data that builds the foundation for the exploitation of results across scientific domains.",
+          "href": [
+            {
+              "@id": "/examples/page-3",
+              "Description": "Through research on resource and data management, workflows, virtualisation, and security we foster the easy and secure access to distributed systems and data that builds the foundation for the exploitation of results across scientific domains.",
+              "Title": "Distributed Computing",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Distributed Computing"
+            }
+          ],
+          "id": "09a8776d-5e16-498a-b15d-d00393940eb8",
+          "title": "Distributed Computing And Parallel Computing"
+        },
+        {
+          "@type": "teaser",
+          "description": "In the human disease retinitis pigmentosa the photoreceptors degenerate, leading to blindness. Electrical prostheses can elicit visual sensations in patients; however, processes secondary to photoreceptor death lead to pathological rhythmic activity in the remaining retinal network that seems to interfere with this therapeutic approach.",
+          "href": [
+            {
+              "@id": "/examples/page-4",
+              "Description": "In the human disease retinitis pigmentosa the photoreceptors degenerate, leading to blindness. Electrical prostheses can elicit visual sensations in patients; however, processes secondary to photoreceptor death lead to pathological rhythmic activity in the remaining retinal network that seems to interfere with this therapeutic approach.",
+              "Title": "Novel therapeutic options for human diseases",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Novel therapeutic options for human diseases"
+            }
+          ],
+          "id": "05cccc61-9045-4ae1-b02a-18d1af518af2",
+          "title": "Novel Therapeutic Options for Human Diseases"
+        },
+        {
+          "@type": "teaser",
+          "description": "Monogenetic diseases provide a direct link between a change in protein function to cell and organ dysfunction. Studying monogenetic diseases often permits identification of cellular roles of ion channels. Moreover, disease-causing mutations usually affect important functions of the affected proteins, and analysis of the functional consequences.",
+          "href": [
+            {
+              "@id": "/examples/page-5",
+              "Description": "Monogenetic diseases provide a direct link between a change in protein function to cell and organ dysfunction. Studying monogenetic diseases often permits identification of cellular roles of ion channels. Moreover, disease-causing mutations usually affect important functions of the affected proteins, and analysis of the functional consequences of such mutations thus provides novel insights into the molecular determinants of protein functions.",
+              "Title": "Pathomechanisms of human diseases",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Pathomechanisms of human diseases"
+            }
+          ],
+          "id": "d3947952-3897-4c66-939c-e1ef69aa9b14",
+          "title": "Generation, Propagation and Transmission of Cellular Signals"
+        }
+      ]
+    },
+    "1916b08c-5f41-434f-8c8b-f2f576296153": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "teaser",
+          "description": "Information processing in the central nervous system relies on the precise interplay of electrical and chemical signals. Action potential generation, propagation, and the initiating events causing transmitter release from the synaptic terminus are determined by the activity of a variety of ion channels. The transfer of information between neurons and target cells is achieved by chemical transmitter substances crossing the synaptic cleft. Neurotransmitter are accumulated in presynaptic vesicles whose fusion with the cell membrane results in neurotransmitter release.",
+          "href": [
+            {
+              "@id": "/examples/page-6",
+              "Description": "Information processing in the central nervous system relies on the precise interplay of electrical and chemical signals. Action potential generation, propagation, and the initiating events causing transmitter release from the synaptic terminus are determined by the activity of a variety of ion channels. The transfer of information between neurons and target cells is achieved by chemical transmitter substances crossing the synaptic cleft. Neurotransmitter are accumulated in presynaptic vesicles whose fusion with the cell membrane results in neurotransmitter release.",
+              "Title": "Generation, propagation and transmission of cellular signals",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Generation, propagation and transmission of cellular signals"
+            }
+          ],
+          "id": "0fd5ce6a-5023-4504-abda-7c6c50aafe60",
+          "title": "Generation, propagation and transmission of cellular signals"
+        }
+      ]
+    },
+    "5dc88ec1-04fd-4181-9eec-d8322b197f64": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "teaser",
+          "description": "The simulation of complex systems in natural science or engineering depends on the development of adequate mathematical models. Thus the development of realistic and yet efficient models is one of our core activities.",
+          "href": [
+            {
+              "@id": "/examples/page-1",
+              "Description": "The simulation of complex systems in natural science or engineering depends on the development of adequate mathematical models. Thus the development of realistic and yet efficient models is one of our core activities.",
+              "Title": "Modelling and Simulation",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Modelling and Simulation"
+            }
+          ],
+          "id": "9a0cf2d1-0fef-483a-adc1-a9a6b73eb844",
+          "title": "Modelling and Simulation of Complex System"
+        },
+        {
+          "@type": "teaser",
+          "description": "There is a broad class of algorithms and methods that are common to several scientific or engineering problems. Ideally, the development of simulation programs follows a layered design in which generic methods are applied to create or extend domain-specific solutions. \n\n",
+          "href": [
+            {
+              "@id": "/examples/page-2",
+              "Description": "Efficient simulations need powerful algorithms and methods.",
+              "Title": "Algorithms and Methods",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Algorithms and Methods"
+            }
+          ],
+          "id": "8df98d1f-ba7e-444b-9346-e3825cda0d3c",
+          "title": "Algorithms and Methods for Scientific Engineering"
+        },
+        {
+          "@type": "teaser",
+          "description": "Through research on resource and data management, workflows, virtualisation, and security we foster the easy and secure access to distributed systems and data that builds the foundation for the exploitation of results across scientific domains.",
+          "href": [
+            {
+              "@id": "/examples/page-3",
+              "Description": "Through research on resource and data management, workflows, virtualisation, and security we foster the easy and secure access to distributed systems and data that builds the foundation for the exploitation of results across scientific domains.",
+              "Title": "Distributed Computing",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Distributed Computing"
+            }
+          ],
+          "id": "dcf268a4-e99b-4a93-9711-2b7ba3eae924",
+          "title": "Distributed Computing And Parallel Computing"
+        },
+        {
+          "@type": "teaser",
+          "description": "In the human disease retinitis pigmentosa the photoreceptors degenerate, leading to blindness. Electrical prostheses can elicit visual sensations in patients; however, processes secondary to photoreceptor death lead to pathological rhythmic activity in the remaining retinal network that seems to interfere with this therapeutic approach.",
+          "href": [
+            {
+              "@id": "/examples/page-4",
+              "Description": "In the human disease retinitis pigmentosa the photoreceptors degenerate, leading to blindness. Electrical prostheses can elicit visual sensations in patients; however, processes secondary to photoreceptor death lead to pathological rhythmic activity in the remaining retinal network that seems to interfere with this therapeutic approach.",
+              "Title": "Novel therapeutic options for human diseases",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "title": "Novel therapeutic options for human diseases"
+            }
+          ],
+          "id": "d931caf2-e8a5-4fdc-ade6-106df45b341f",
+          "title": "Novel therapeutic options for human diseases"
+        }
+      ]
+    },
+    "f380af46-d222-468a-a023-16e828b37204": {
+      "@type": "heading",
+      "heading": "COMBINE TEXT AND IMAGES"
+    },
+    "10c44703-e012-4487-aeec-694a14bec85e": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "image",
+          "alt": "Image 1",
+          "id": "bb568433-bf3b-48bc-809a-b7f515d2fc5a",
+          "url": "/examples/image-1"
+        },
+        {
+          "@type": "slate",
+          "id": "07ff8b57-a800-4569-849a-645a6be8e513",
+          "plaintext": "Generation, Propagation and Transmission of Cellular Signals\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Generation, Propagation and Transmission of Cellular Signals"
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n"
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      ]
+    },
+    "0f33f38c-dd58-4ae3-8a0f-dc9e0440f319": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "slate",
+          "id": "a082491d-e615-407e-b2ac-96074ce4fdf5",
+          "plaintext": "Generation, Propagation and Transmission of Cellular Signals\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Generation, Propagation and Transmission of Cellular Signals"
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "image",
+          "alt": "Image 2",
+          "id": "c141fb29-7157-42e3-8aee-56dcf2c755a7",
+          "url": "/examples/image-2"
+        }
+      ]
+    },
+    "5c565439-e0b6-4a75-87e5-6473bf780e8a": {
+      "@type": "heading",
+      "heading": "TEXT AND IMAGES IN THREE COLUMNS",
+      "tag": "h3"
+    },
+    "951202ec-c817-4d75-b582-d71b83946386": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "image",
+          "alt": "Image 6",
+          "id": "2f01112a-cd36-4cde-9c11-85da412494d4",
+          "url": "/examples/image-6"
+        },
+        {
+          "@type": "slate",
+          "id": "5124898f-328a-469f-9743-f98041310adc",
+          "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "26d4e1cc-d97f-44df-b4d7-58bede4825b1",
+          "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      ]
+    },
+    "1acb75d8-58c3-4c64-9825-cc72bf1e69e6": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "slate",
+          "id": "d3b9d7c1-754d-446f-98fc-2be08059251d",
+          "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "2557da67-b970-49ad-ae56-aad5062b591f",
+          "plaintext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "image",
+          "alt": "Image 5",
+          "id": "aa9421a3-3c63-4608-89fa-8562e605159d",
+          "url": "/examples/image-5"
+        }
+      ]
+    },
+    "43ef780c-d193-41f2-9eed-1c231361b64d": {
+      "@type": "heading",
+      "heading": "TEXT GRID"
+    },
+    "1c6239f4-2013-4ab4-8bee-408fe98261dd": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "slate",
+          "id": "c5bd3953-7a33-4ef9-9674-a9b744736a17",
+          "plaintext": "Modelling and Simulation\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Modelling and Simulation"
+                }
+              ],
+              "type": "h2"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "94de48e2-a79f-42b4-b5cb-7659347f46f7",
+          "plaintext": "Algorithms and Methods\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Algorithms and Methods"
+                }
+              ],
+              "type": "h2"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      ]
+    },
+    "7e6f456b-0573-418b-a2f6-3ea517d9b962": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "slate",
+          "id": "e53c3e6f-d756-4cdc-b156-6cadd977970d",
+          "plaintext": "Modelling and Simulation\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Modelling and Simulation"
+                }
+              ],
+              "type": "h2"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "4be27c16-7689-4a0b-87ba-3ca2b5551c29",
+          "plaintext": "Algorithms and Methods\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Algorithms and Methods"
+                }
+              ],
+              "type": "h2"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "d33a75dd-ad48-4e73-a510-7002e065089f",
+          "plaintext": "Distributed Computing\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Distributed Computing"
+                }
+              ],
+              "type": "h2"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      ]
+    },
+    "a57aa68a-b2f7-4ca9-8cda-83bbe905d2a9": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "slate",
+          "id": "1509d7bf-bf86-4307-b1f1-2c74cf3b8614",
+          "plaintext": "Modelling and Simulation\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Modelling and Simulation"
+                }
+              ],
+              "type": "h2"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      ]
+    },
+    "c68cdd11-8a88-4293-8dcd-7c7fd3cc7396": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "slate",
+          "id": "bb4039b8-813c-46fe-b64c-3c9951c6fd6e",
+          "plaintext": "Modelling and Simulation\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Modelling and Simulation"
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "08f70ff9-7184-4713-8c66-8c7ab6e766b6",
+          "plaintext": "Algorithms and Methods\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Algorithms and Methods"
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "6a9729e2-fc3c-4338-a130-e990935b0e46",
+          "plaintext": "Distributed Computing\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Distributed Computing"
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        {
+          "@type": "slate",
+          "id": "3167e362-a4af-4be5-a6cd-afe7e3fde4e1",
+          "plaintext": "Parallel Computing\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Parallel Computing"
+                }
+              ],
+              "type": "h3"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      ]
+    },
+    "742bb970-0f8d-4983-bbfc-fa92fbcc2f02": {
+      "@type": "heading",
+      "heading": "IMAGE GRID"
+    },
+    "5053d6bd-cebc-4574-bf63-19443debda4a": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "image",
+          "alt": "Image 1",
+          "id": "4544bad5-7ee8-4e4c-b32c-728f8f84adb6",
+          "url": "/examples/image-1"
+        },
+        {
+          "@type": "image",
+          "alt": "Image 2",
+          "id": "a73a3a7b-0320-4620-a4a0-0b7bf33095cc",
+          "url": "/examples/image-2"
+        }
+      ]
+    },
+    "1862ac8f-3611-429c-b718-407d1b8a9cfa": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "image",
+          "alt": "Image 3",
+          "id": "73e12fe8-1e2f-4775-97df-5778e76a9035",
+          "url": "/examples/image-3"
+        },
+        {
+          "@type": "image",
+          "alt": "Image 4",
+          "id": "62eeb991-82f6-44c7-b63a-46238afb80d9",
+          "url": "/examples/image-4"
+        },
+        {
+          "@type": "image",
+          "alt": "Image 5",
+          "id": "1587cc30-0be2-4562-8fb7-10eb24d2fc71",
+          "url": "/examples/image-5"
+        }
+      ]
+    },
+    "82caddbb-96cf-48c3-ab70-e5f75bcb3d74": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "image",
+          "alt": "Image 6",
+          "id": "633d59c8-c19f-4dbf-88a7-e76d22ce3ac7",
+          "url": "/examples/image-6"
+        }
+      ]
+    },
+    "fb688423-1f0c-4602-9494-9fb68a5339f9": {
+      "@type": "__grid",
+      "columns": [
+        {
+          "@type": "image",
+          "alt": "Image 1",
+          "id": "68671d93-24a8-4488-a5fd-01b358c4dbe2",
+          "url": "/examples/image-1"
+        },
+        {
+          "@type": "image",
+          "alt": "Image 2",
+          "id": "ec01074c-463c-4e0a-9d3d-c30e41a68e3a",
+          "url": "/examples/image-2"
+        },
+        {
+          "@type": "image",
+          "alt": "Image 3",
+          "id": "beca664a-52b5-4377-b2ec-56bee15edcf5",
+          "url": "/examples/image-3"
+        },
+        {
+          "@type": "image",
+          "alt": "Image 4",
+          "id": "94923e4f-ebc9-483f-b1fe-ceb4b6063b2e",
+          "url": "/examples/image-4"
+        }
+      ]
+    },
+    "ea305839-e2b3-4e68-9bc9-c823889348f6": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "d3f1c443-583f-4e8e-a682-3bf25752a300",
+      "19a327d9-6293-4e80-96be-836ef5a0fc77",
+      "b522b9f9-8da3-43d5-b6bd-45f6e289403e",
+      "dc23726a-aa0a-40cd-9004-96bca86a578d",
+      "f0e70018-c10d-4136-9c4d-2f766d7ec40e",
+      "ba076661-72f2-48c8-aaa6-b054f40b6c85",
+      "19d511fc-34bc-4c47-b2a7-457205ecf290",
+      "1916b08c-5f41-434f-8c8b-f2f576296153",
+      "5dc88ec1-04fd-4181-9eec-d8322b197f64",
+      "f380af46-d222-468a-a023-16e828b37204",
+      "10c44703-e012-4487-aeec-694a14bec85e",
+      "0f33f38c-dd58-4ae3-8a0f-dc9e0440f319",
+      "5c565439-e0b6-4a75-87e5-6473bf780e8a",
+      "951202ec-c817-4d75-b582-d71b83946386",
+      "1acb75d8-58c3-4c64-9825-cc72bf1e69e6",
+      "43ef780c-d193-41f2-9eed-1c231361b64d",
+      "1c6239f4-2013-4ab4-8bee-408fe98261dd",
+      "7e6f456b-0573-418b-a2f6-3ea517d9b962",
+      "a57aa68a-b2f7-4ca9-8cda-83bbe905d2a9",
+      "c68cdd11-8a88-4293-8dcd-7c7fd3cc7396",
+      "742bb970-0f8d-4983-bbfc-fa92fbcc2f02",
+      "5053d6bd-cebc-4574-bf63-19443debda4a",
+      "1862ac8f-3611-429c-b718-407d1b8a9cfa",
+      "82caddbb-96cf-48c3-ab70-e5f75bcb3d74",
+      "fb688423-1f0c-4602-9494-9fb68a5339f9",
+      "ea305839-e2b3-4e68-9bc9-c823889348f6"
+    ]
+  },
+  "id": "grid",
+  "title": "Grid",
+  "description": "",
+  "review_state": "published",
+  "subjects": []
+}

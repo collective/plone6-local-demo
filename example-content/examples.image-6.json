@@ -1,0 +1,13 @@
+{
+  "@type": "Image",
+  "title": "Image 6",
+  "description": "Enabling Novel X-ray Sources to Deliver Tumor-Killing Radiation. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+  "review_state": "published",
+  "set_local_image": {
+    "image": "image-6.jpg"
+  },
+  "rights": "Photo by National Cancer Institute on Unsplash: https://unsplash.com/photos/zz_3tCcrk7o",
+  "subjects": [
+    "Molecular and Cellular Physiology"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "@type": "Document",
+	"set_local_image": {
+		"preview_image": "showcase-vhs-ehrenamtsportal.png"
+	},
+    "blocks": {
+        "283ce911-3f67-40fd-9035-6f68001f72bb": {
+            "@type": "title"
+        },
+        "6d058814-1636-44af-b4f0-61f582da69a0": {
+            "@type": "image",
+            "url": ""
+        },
+        "1485974a-f313-4086-b31f-040954939ba3": {
+            "@type": "slate",
+            "plaintext": "",
+            "value": [
+                {
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ],
+                    "type": "p"
+                }
+            ]
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "283ce911-3f67-40fd-9035-6f68001f72bb",
+            "6d058814-1636-44af-b4f0-61f582da69a0",
+            "1485974a-f313-4086-b31f-040954939ba3"
+        ]
+    },
+    "id": "vhs-ehrenamtsportal",
+    "title": "VHS Ehrenamtsportal",
+    "description": "",
+    "review_state": "published",
+    "subjects": []
+}

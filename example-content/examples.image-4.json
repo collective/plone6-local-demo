@@ -1,0 +1,13 @@
+{
+  "@type": "Image",
+  "title": "Image 4",
+  "description": "Leaf texture in macro. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+  "review_state": "published",
+  "set_local_image": {
+    "image": "image-4.jpg"
+  },
+  "rights": "Photo by Vadim Gromov on Unsplash: https://unsplash.com/photos/8XFcmzA4WO8",
+  "subjects": [
+    "Molecular and Cellular Physiology"
+  ]
+}

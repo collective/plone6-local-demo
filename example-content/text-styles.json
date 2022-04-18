@@ -1,0 +1,694 @@
+{
+  "@type": "Document",
+  "set_local_image": {
+    "image": "text.svg"
+  },
+  "blocks": {
+    "1452aefa-fcbb-41cf-b345-50c810104dae": {
+      "@type": "title"
+    },
+    "180db0b9-ec22-4ce8-9a79-2673d20d9a94": {
+      "@type": "slate",
+      "plaintext": "The text block allows you to create paragraphs of formatted text.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The text block allows you to create paragraphs of formatted text."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "dbed0a46-f220-4300-afb7-540b1718d70e": {
+      "@type": "slate",
+      "plaintext": "Lorem ipsum dolor sit amet  consetetur sadipscing elitr  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat  sed diam voluptua  At vero eos et accusam et justo duo dolores et ea rebum  Stet clita kasd gubergren  no sea takimata sanctus est Lorem ipsum dolor sit amet  Lorem ipsum dolor sit amet  consetetur sadipscing elitr  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat  sed diam voluptua  At vero eos et accusam et justo duo dolores et ea rebum  Stet clita kasd gubergren  no sea takimata sanctus est Lorem ipsum dolor sit amet ",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4t43",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "54035ade-eb2c-4429-a112-72408ad38775": {
+      "@type": "slate",
+      "plaintext": "Headline (H2)",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "BOLD"
+              }
+            ],
+            "key": "6qnfo",
+            "text": "Überschrift zweiter Ordnung (Headline H2)",
+            "type": "header-two"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Headline (H2)"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "aa6226dc-94c9-4004-b4b0-edb46117c1d0": {
+      "@type": "slate",
+      "plaintext": "Lorem ipsum dolor sit amet  consetetur sadipscing elitr  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat  sed diam voluptua  At vero eos et accusam et justo duo dolores et ea rebum  Stet clita kasd gubergren  no sea takimata sanctus est Lorem ipsum dolor sit amet  Lorem ipsum dolor sit amet  consetetur sadipscing elitr  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat  sed diam voluptua  At vero eos et accusam et justo duo dolores et ea rebum  Stet clita kasd gubergren  no sea takimata sanctus est Lorem ipsum dolor sit amet ",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eprm2",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "786f9c0f-e814-4ad5-a709-7bc029e79dab": {
+      "@type": "slate",
+      "plaintext": "Headline (H3)",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "BOLD"
+              }
+            ],
+            "key": "6l7rp",
+            "text": "Überschrift dritter Ordnung (Headline H3)",
+            "type": "header-three"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Headline (H3)"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "ca28e07b-4e34-48f4-963e-3d11be35d026": {
+      "@type": "slate",
+      "plaintext": "Lorem ipsum dolor sit amet  consetetur sadipscing elitr  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat  sed diam voluptua  At vero eos et accusam et justo duo dolores et ea rebum  Stet clita kasd gubergren  no sea takimata sanctus est Lorem ipsum dolor sit amet  Lorem ipsum dolor sit amet  consetetur sadipscing elitr  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat  sed diam voluptua  At vero eos et accusam et justo duo dolores et ea rebum  Stet clita kasd gubergren  no sea takimata sanctus est Lorem ipsum dolor sit amet",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8v79k",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4c8248d4-be41-442b-8732-c01fec013a66": {
+      "@type": "slate",
+      "plaintext": "Inline Styles",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "BOLD"
+              }
+            ],
+            "key": "4hbv",
+            "text": "Inline Styles",
+            "type": "header-two"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Inline Styles"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "c72b9d38-ea00-410e-ad3e-740258faca64": {
+      "@type": "slate",
+      "plaintext": "Text can be bold oder italic .",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 10,
+                "style": "BOLD"
+              },
+              {
+                "length": 14,
+                "offset": 20,
+                "style": "ITALIC"
+              }
+            ],
+            "key": "27c9r",
+            "text": "Text kann fett oder schräggestellt dargestellt werden.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Text can be "
+            },
+            {
+              "children": [
+                {
+                  "text": "bold"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": " oder "
+            },
+            {
+              "children": [
+                {
+                  "text": "italic"
+                }
+              ],
+              "type": "em"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "018862a7-84a1-4341-b222-b680743ac27d": {
+      "@type": "slate",
+      "plaintext": " Links ",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "BOLD"
+              }
+            ],
+            "key": "e7jsi",
+            "text": "Links",
+            "type": "header-two"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Links"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2b258b43-424b-44cf-8e3b-e79870840925": {
+      "@type": "slate",
+      "plaintext": "There are internal links and external links .",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 13,
+                "offset": 8
+              },
+              {
+                "key": 1,
+                "length": 13,
+                "offset": 26
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9f7ae",
+            "text": "Es gibt interne Links und externe Links.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": {
+          "0": {
+            "data": {
+              "url": "https://fzj-internet.kitconcept.dev/de"
+            },
+            "mutability": "MUTABLE",
+            "type": "LINK"
+          },
+          "1": {
+            "data": {
+              "url": "https://google.com/"
+            },
+            "mutability": "MUTABLE",
+            "type": "LINK"
+          }
+        }
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "There are "
+            },
+            {
+              "children": [
+                {
+                  "text": "internal links"
+                }
+              ],
+              "data": {
+                "url": "/front-page"
+              },
+              "type": "link"
+            },
+            {
+              "text": " and "
+            },
+            {
+              "children": [
+                {
+                  "text": "external links"
+                }
+              ],
+              "data": {
+                "url": "https://plone.org"
+              },
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "eefb3169-4695-4fbe-a08a-e9f3a420a89f": {
+      "@type": "slate",
+      "plaintext": "Lists",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "BOLD"
+              }
+            ],
+            "key": "cekd1",
+            "text": "Listen",
+            "type": "header-two"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Lists"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "d75ec713-df0a-494d-bd45-bdad083c318b": {
+      "@type": "slate",
+      "plaintext": "Unordered Lists",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "BOLD"
+              }
+            ],
+            "key": "6ueie",
+            "text": "Ungeordnete Liste",
+            "type": "header-three"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Unordered Lists"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "26d93b0f-d66d-47f7-b84d-479772ba6402": {
+      "@type": "slate",
+      "plaintext": "red green blue orange",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ukiv",
+            "text": "Rot",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dac2l",
+            "text": "Grün",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bqmph",
+            "text": "Blau",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "171to",
+            "text": "Gelb",
+            "type": "unordered-list-item"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "red"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "green"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "blue"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "orange"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "68025177-8c7e-4094-af44-9adb10248016": {
+      "@type": "slate",
+      "plaintext": "Ordered Lists",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "BOLD"
+              }
+            ],
+            "key": "blf6m",
+            "text": "Geordnete Liste",
+            "type": "header-three"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ordered Lists"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "ac2fa60f-c28d-4db3-8eba-060a58d4243f": {
+      "@type": "slate",
+      "plaintext": "One Two Three Four",
+      "text": {
+        "blocks": [
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dmlhb",
+            "text": "Eins",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "clcrv",
+            "text": "Zwei",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3p2af",
+            "text": "Drei",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "depth": 0,
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b7eis",
+            "text": "Vier",
+            "type": "ordered-list-item"
+          }
+        ],
+        "entityMap": {}
+      },
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "One"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Two"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Three"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Four"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ol"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "1452aefa-fcbb-41cf-b345-50c810104dae",
+      "180db0b9-ec22-4ce8-9a79-2673d20d9a94",
+      "dbed0a46-f220-4300-afb7-540b1718d70e",
+      "54035ade-eb2c-4429-a112-72408ad38775",
+      "aa6226dc-94c9-4004-b4b0-edb46117c1d0",
+      "786f9c0f-e814-4ad5-a709-7bc029e79dab",
+      "ca28e07b-4e34-48f4-963e-3d11be35d026",
+      "4c8248d4-be41-442b-8732-c01fec013a66",
+      "c72b9d38-ea00-410e-ad3e-740258faca64",
+      "018862a7-84a1-4341-b222-b680743ac27d",
+      "2b258b43-424b-44cf-8e3b-e79870840925",
+      "eefb3169-4695-4fbe-a08a-e9f3a420a89f",
+      "d75ec713-df0a-494d-bd45-bdad083c318b",
+      "26d93b0f-d66d-47f7-b84d-479772ba6402",
+      "68025177-8c7e-4094-af44-9adb10248016",
+      "ac2fa60f-c28d-4db3-8eba-060a58d4243f"
+    ]
+  },
+  "id": "text-styles",
+  "title": "Text",
+  "description": "The text block allows you to create paragraphs of formatted text.",
+  "review_state": "published",
+  "subjects": []
+}

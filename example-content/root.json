@@ -1,0 +1,273 @@
+{
+  "blocks": {
+    "07c273fc-8bfc-4e7d-a327-d513e5a945bb": {
+      "@type": "title"
+    },
+    "0b30dc27-b4ca-4994-9574-bc4bbcf0a1b5": {
+      "@type": "slate",
+      "plaintext": "Ready for Prime Time",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ready for Prime Time"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "1e10e2c1-5f68-4ce3-96b4-542ada4798c1": {
+      "@type": "slate",
+      "plaintext": "Plone 6 allows creating new content types through the web without the need to write code. Editors can define templates through the web to control the layout of content types.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone 6 allows creating new content types through the web without the need to write code. Editors can define templates through the web to control the layout of content types."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2368c240-27cf-4b4d-9904-2a651f8858a9": {
+      "@type": "slate",
+      "plaintext": "Ready When You Are",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ready When You Are"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "278c3d84-ec55-404d-8037-d3d2cd6229e2": {
+      "@type": "slate",
+      "plaintext": "No Code Content Types, Forms, and Faceted Search",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "No Code Content Types, Forms, and Faceted Search"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5ce1de1b-ccb9-4b2e-84fd-ca0f71decfd5": {
+      "@type": "slate",
+      "plaintext": "Plone 6 is the first CMS on the market that combines the power features, best-in-class security, and scalability of an enterprise CMS with a state-of-the-art JavaScript frontend and an easy-to-use user interface that gives editors full control over the composition of pages.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone 6 is the first CMS on the market that combines the power features, best-in-class security, and scalability of an enterprise CMS with a state-of-the-art JavaScript frontend and an easy-to-use user interface that gives editors full control over the composition of pages."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "63430da8-1690-4c42-b579-b829fa4014c9": {
+      "@type": "slate",
+      "plaintext": "Plone 6 comes with a rich ecosystem of more than 100 add-on products. The new software stack that powers Plone 6 (Volto, REST API, Plone Backend) has been used in production for more than four years. Plone 6 already powers high-profile government websites, university websites, and intranets around the globe today.\u00b4",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone 6 comes with a rich ecosystem of more than 100 add-on products. The new software stack that powers Plone 6 (Volto, REST API, Plone Backend) has been used in production for more than four years. Plone 6 already powers high-profile government websites, university websites, and intranets around the globe today.\u00b4"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7a7d8c76-fcf0-4602-bb56-1a77c8e6bf31": {
+      "@type": "slate",
+      "plaintext": "Creating forms and sophisticated faceted search user interfaces are possible entirely through the web and become a no-brainer with Plone 6.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Creating forms and sophisticated faceted search user interfaces are possible entirely through the web and become a no-brainer with Plone 6."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7b4c7e43-9056-4775-bbb4-244d888fdee5": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "\n"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "90d6d46f-f9d1-4ffd-a355-8317794aae75": {
+      "@type": "slate",
+      "plaintext": "The new blocks engine allows editors to build sophisticated page layouts in no time, without the need for any in-depth knowledge of the underlying web technologies.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The new blocks engine allows editors to build sophisticated page layouts in no time, without the need for any in-depth knowledge of the underlying web technologies."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b46154db-1c0c-427a-86f9-af240a70da81": {
+      "@type": "teaserGrid",
+      "columns": [
+        {
+          "@type": "teaser",
+          "description": "",
+          "href": [
+            {
+              "@id": "/showcase/exzellenz-an-der-humboldt-universitaet-zu-berlin",
+              "Description": "",
+              "Title": "Exzellenz an der Humboldt-Universit\u00e4t zu Berlin",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "Exzellenz an der Humboldt-Universit\u00e4t zu Berlin"
+            }
+          ],
+          "id": "782317e9-1ed7-459b-b2d2-86db2ebbc30c",
+          "title": "Exzellenz an der Humboldt-Universit\u00e4t zu Berlin"
+        },
+        {
+          "@type": "teaser",
+          "href": [
+            {
+              "@id": "/showcase/osaka-university",
+              "Description": "Official Website of the Osaka University, Japan.",
+              "Title": "Osaka University",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "Osaka University"
+            }
+          ],
+          "id": "341ced68-dc01-4a19-b3d3-319697781865",
+          "title": "Osaka University"
+        },
+        {
+          "@type": "teaser",
+          "description": "",
+          "href": [
+            {
+              "@id": "/showcase/vhs-ehrenamtsportal",
+              "Description": "",
+              "Title": "VHS Ehrenamtsportal",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "VHS Ehrenamtsportal"
+            }
+          ],
+          "id": "dac2122e-6226-48d5-87e2-5f486bbcb395",
+          "title": "VHS Ehrenamtsportal"
+        },
+        {
+          "@type": "teaser",
+          "description": "",
+          "href": [
+            {
+              "@id": "/showcase/humboldt-labor",
+              "Description": "",
+              "Title": "Humboldt Labor",
+              "hasPreviewImage": true,
+              "head_title": null,
+              "image_field": "preview_image",
+              "title": "Humboldt Labor"
+            }
+          ],
+          "id": "61e1c392-cee4-4bf7-9c3b-a83b131285bc",
+          "title": "Humboldt Labor"
+        }
+      ]
+    },
+    "ba20f545-df1e-4cf7-9b49-822b4c354cdf": {
+      "@type": "slate",
+      "plaintext": "Empowering Editors",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Empowering Editors"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "c899286a-6799-4c25-9844-a19b7626cc35": {
+      "@type": "image",
+      "alt": "",
+      "url": "/plone-release-schedule"
+    },
+    "f3f3123e-8b93-4586-a9a1-f21cf5dfde0f": {
+      "@type": "slate",
+      "plaintext": "Plone 6 will continue to be shipped with a modernized version of the Plone \u201cClassic\u201d user interface. Plone 6 will be a Long Term Support (LTS) release with an extended support period. This will give you all the time you need to adapt your existing Plone site to the new world of Plone 6 if you are not ready yet.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone 6 will continue to be shipped with a modernized version of the Plone \u201cClassic\u201d user interface. Plone 6 will be a Long Term Support (LTS) release with an extended support period. This will give you all the time you need to adapt your existing Plone site to the new world of Plone 6 if you are not ready yet."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f93e1aad-38e7-468b-80ff-437b74bb9a68": {
+      "@type": "slate",
+      "plaintext": "Plone 6 is built from the ground up to empower both seasonal and frequent editors to create modern web layouts that automatically adapt to any device.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Plone 6 is built from the ground up to empower both seasonal and frequent editors to create modern web layouts that automatically adapt to any device."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "07c273fc-8bfc-4e7d-a327-d513e5a945bb",
+      "5ce1de1b-ccb9-4b2e-84fd-ca0f71decfd5",
+      "ba20f545-df1e-4cf7-9b49-822b4c354cdf",
+      "f93e1aad-38e7-468b-80ff-437b74bb9a68",
+      "90d6d46f-f9d1-4ffd-a355-8317794aae75",
+      "278c3d84-ec55-404d-8037-d3d2cd6229e2",
+      "1e10e2c1-5f68-4ce3-96b4-542ada4798c1",
+      "7a7d8c76-fcf0-4602-bb56-1a77c8e6bf31",
+      "0b30dc27-b4ca-4994-9574-bc4bbcf0a1b5",
+      "63430da8-1690-4c42-b579-b829fa4014c9",
+      "b46154db-1c0c-427a-86f9-af240a70da81",
+      "2368c240-27cf-4b4d-9904-2a651f8858a9",
+      "f3f3123e-8b93-4586-a9a1-f21cf5dfde0f",
+      "c899286a-6799-4c25-9844-a19b7626cc35",
+      "7b4c7e43-9056-4775-bbb4-244d888fdee5"
+    ]
+  },
+  "title": "Welcome to Plone 6",
+  "description": null
+}

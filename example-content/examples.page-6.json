@@ -1,0 +1,12 @@
+{
+  "@type": "Document",
+  "title": "Generation, propagation and transmission of cellular signals",
+  "description": "Information processing in the central nervous system relies on the precise interplay of electrical and chemical signals. Action potential generation, propagation, and the initiating events causing transmitter release from the synaptic terminus are determined by the activity of a variety of ion channels. The transfer of information between neurons and target cells is achieved by chemical transmitter substances crossing the synaptic cleft. Neurotransmitter are accumulated in presynaptic vesicles whose fusion with the cell membrane results in neurotransmitter release.",
+  "review_state": "published",
+  "subjects": [
+    "Molecular and Cellular Physiology"
+  ],
+  "set_local_image": {
+    "preview_image": "image-6.jpg"
+  }
+}

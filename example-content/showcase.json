@@ -1,0 +1,59 @@
+{
+    "@type": "Document",
+    "blocks": {
+        "020d5c2f-2a07-4f5a-a445-bcaddf3d0bd9": {
+            "@type": "title"
+        },
+        "4fbfe2e2-4fa7-48ee-887d-a60c5b1a296e": {
+            "@type": "listing",
+            "block": "4fbfe2e2-4fa7-48ee-887d-a60c5b1a296e",
+            "query": [],
+            "querystring": {
+                "depth": "7",
+                "query": [
+                    {
+                        "i": "path",
+                        "o": "plone.app.querystring.operation.string.relativePath",
+                        "v": "."
+                    },
+                    {
+                        "i": "portal_type",
+                        "o": "plone.app.querystring.operation.selection.any",
+                        "v": [
+                            "Document"
+                        ]
+                    }
+                ],
+                "sort_order": "ascending"
+            },
+            "variation": "default"
+        },
+        "1012650f-b053-44d9-9ea7-f8998b15075c": {
+            "@type": "slate",
+            "plaintext": "",
+            "value": [
+                {
+                    "children": [
+                        {
+                            "text": ""
+                        }
+                    ],
+                    "type": "p"
+                }
+            ]
+        }
+    },
+    "blocks_layout": {
+        "items": [
+            "020d5c2f-2a07-4f5a-a445-bcaddf3d0bd9",
+            "4fbfe2e2-4fa7-48ee-887d-a60c5b1a296e",
+            "1012650f-b053-44d9-9ea7-f8998b15075c"
+        ]
+    },
+    "id": "showcase",
+    "title": "Showcase",
+    "description": "",
+    "review_state": "published",
+    "exclude_from_nav": true,
+    "subjects": []
+}

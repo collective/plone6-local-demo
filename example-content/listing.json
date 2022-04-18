@@ -1,0 +1,166 @@
+{
+  "@type": "Document",
+  "set_local_image": {
+    "image": "list-bullet.svg"
+  },
+  "blocks": {
+    "1e2ef45e-8ebd-4c58-bb3b-945a6d92ad21": {
+      "@type": "title"
+    },
+    "7fa6281f-5de2-4880-8e1a-21996e5d0245": {
+      "@type": "slate",
+      "plaintext": "The Listing Block allows you to create auto-generated listings based on filter criteria (such as the type of object).",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "The Listing Block allows you to create auto-generated listings based on a filter criteria (such as the type of object)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5e2ff17c-f1f5-463a-8279-91b4b4d367bb": {
+      "@type": "slate",
+      "plaintext": "Default Listing",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Default Listing"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "1efc5539-0fd1-431e-ac22-0902ea4047d5": {
+      "@type": "listing",
+      "block": "1efc5539-0fd1-431e-ac22-0902ea4047d5",
+      "querystring": {
+        "depth": "1",
+        "limit": "4",
+        "query": [
+          {
+            "i": "portal_type",
+            "o": "plone.app.querystring.operation.selection.any",
+            "v": ["Document"]
+          },
+          {
+            "i": "path",
+            "o": "plone.app.querystring.operation.string.absolutePath",
+            "v": "/examples"
+          }
+        ],
+        "sort_order": "ascending"
+      },
+      "variation": "default"
+    },
+    "f461a2e1-bbf0-476e-a56a-f2d8a50bcc12": {
+      "@type": "slate",
+      "plaintext": "Summary",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Summary"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "77524570-fd74-4eab-8e5c-4f373f69cf2a": {
+      "@type": "listing",
+      "block": "77524570-fd74-4eab-8e5c-4f373f69cf2a",
+      "query": [],
+      "querystring": {
+        "depth": "1",
+        "limit": "4",
+        "query": [
+          {
+            "i": "portal_type",
+            "o": "plone.app.querystring.operation.selection.any",
+            "v": ["Document"]
+          },
+          {
+            "i": "path",
+            "o": "plone.app.querystring.operation.string.absolutePath",
+            "v": "/examples"
+          }
+        ],
+        "sort_order": "ascending"
+      },
+      "variation": "summary"
+    },
+    "d72f4592-63a3-46b5-b108-a65cf51c989d": {
+      "@type": "slate",
+      "plaintext": "Image Gallery",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Image Gallery"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "382a1d95-eb98-4d85-9efc-88fe884a8045": {
+      "@type": "listing",
+      "block": "382a1d95-eb98-4d85-9efc-88fe884a8045",
+      "query": [],
+      "querystring": {
+        "depth": "1",
+        "query": [
+          {
+            "i": "portal_type",
+            "o": "plone.app.querystring.operation.selection.any",
+            "v": ["Image"]
+          },
+          {
+            "i": "path",
+            "o": "plone.app.querystring.operation.string.absolutePath",
+            "v": "/examples"
+          }
+        ],
+        "sort_order": "ascending"
+      },
+      "variation": "imageGallery"
+    },
+    "0047054c-868b-44cd-bbd4-47fcee778dd9": {
+      "@type": "slate",
+      "plaintext": "",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "1e2ef45e-8ebd-4c58-bb3b-945a6d92ad21",
+      "7fa6281f-5de2-4880-8e1a-21996e5d0245",
+      "5e2ff17c-f1f5-463a-8279-91b4b4d367bb",
+      "1efc5539-0fd1-431e-ac22-0902ea4047d5",
+      "f461a2e1-bbf0-476e-a56a-f2d8a50bcc12",
+      "77524570-fd74-4eab-8e5c-4f373f69cf2a",
+      "d72f4592-63a3-46b5-b108-a65cf51c989d",
+      "382a1d95-eb98-4d85-9efc-88fe884a8045",
+      "0047054c-868b-44cd-bbd4-47fcee778dd9"
+    ]
+  },
+  "id": "listing",
+  "title": "Listing",
+  "description": "The Listing Block allows you to create auto-generated listings based on a criteria (such as the type of object).",
+  "review_state": "published",
+  "subjects": []
+}

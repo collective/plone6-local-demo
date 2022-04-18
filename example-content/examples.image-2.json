@@ -1,0 +1,13 @@
+{
+  "@type": "Image",
+  "title": "Image 2",
+  "description": "This photo was taken in a school bench, with a mesh for fruit, a blue lantern and a camera Nikon D500, it represent the depth of the ocean and the internet.",
+  "review_state": "published",
+  "set_local_image": {
+    "image": "image-2.jpg"
+  },
+  "rights": "Photo by Uriel SC on Unsplash: https://unsplash.com/photos/11KDtiUWRq4",
+  "subjects": [
+    "High Performance Computing"
+  ]
+}

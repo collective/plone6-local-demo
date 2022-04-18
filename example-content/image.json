@@ -1,0 +1,10 @@
+{
+  "@type": "Image",
+  "title": "Image",
+  "description": "",
+  "review_state": "published",
+  "set_local_image": {
+    "image": "image-1.jpg"
+  },
+  "subjects": ["High Performance Computing"]
+}
