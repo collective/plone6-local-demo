@@ -1,5 +1,7 @@
 from base64 import b64encode
 from pathlib import Path
+from time import sleep
+
 import json
 import requests
 import magic
@@ -17,6 +19,18 @@ headers = {
     "Accept": "application/json",
     "Content-Type": "application/json"
 }
+
+# Wait for backend to be available
+live: bool = False
+
+while not live:
+    try:
+        response = requests.get(base_url)
+    except requests.RequestException:
+        sleep(1)
+    else:
+        live = response.status_code == 200
+
 
 # Authenticate
 response = requests.post(f"{base_url}/@login", headers=headers, json={"login": username, "password": password})
