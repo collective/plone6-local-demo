@@ -9,14 +9,16 @@ This repo was created to support [Érico Andrei](https://github.com/ericof)'s "W
 Currently it uses:
 
 * Plone 6.0.0a4
-* Volto 15.4.1
+* Volto 16.0.0-alpha.7
 * Volto Addons:
 
-    * volto-slate
-    * @eeacms/volto-accordion-block
-    * @kitconcept/volto-blocks-grid
-    * @kitconcept/volto-heading-block
-    * @kitconcept/volto-separator-block
+    * [@eeacms/volto-accordion-block](https://www.npmjs.com/package/@eeacms/volto-accordion-block)
+    * [@kitconcept/volto-blocks-grid](https://www.npmjs.com/package/@kitconcept/volto-blocks-grid)
+    * [@kitconcept/volto-button-block](https://www.npmjs.com/package/@kitconcept/volto-button-block)
+    * [@kitconcept/volto-heading-block](https://www.npmjs.com/package/@kitconcept/volto-heading-block)
+    * [@kitconcept/volto-separator-block](https://www.npmjs.com/package/@kitconcept/volto-separator-block)
+    * [@kitconcept/volto-slider-block](https://www.npmjs.com/package/@kitconcept/volto-slider-block)
+    * [volto-slate](https://www.npmjs.com/package/volto-slate)
 
 
 ## Usage
@@ -41,10 +43,12 @@ make stop
 ## Used for
 
 * [Python Web Conference 2022](https://2022.pythonwebconf.com/presentations/welcome-to-plone-6)
+* [Welcome to Plone 6](https://www.youtube.com/watch?v=16JZPRnkZ9w)
+* [Live de Python](https://www.youtube.com/watch?v=CcYqwUfp6UQ)
 
 
 ## Special thanks
 
-* [kitconcept GmbH](https://kitconcept.com): Create the example content used here.
+* [kitconcept GmbH](https://kitconcept.com): Created the example content used here.
 
 * [T. Kim Nguyen](https://github.com/tkimnguyen): For pushing me to document stuff I do :-)
