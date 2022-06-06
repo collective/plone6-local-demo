@@ -10,3 +10,4 @@ lib64/
 !.gitignore
 !.gitkeep
 pyvenv.cfg
+.vscode
