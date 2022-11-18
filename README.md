@@ -9,7 +9,7 @@ This repo was created to support [Érico Andrei](https://github.com/ericof)'s "W
 Currently it uses:
 
 * Plone 6.0.0rc1
-* Volto 16.0.0-alpha.51
+* Volto 16.0.0-alpha.52
 * Volto Addons:
 
     * [@eeacms/volto-accordion-block](https://www.npmjs.com/package/@eeacms/volto-accordion-block)
