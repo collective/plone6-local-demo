@@ -1,1 +1,1 @@
-FROM plone/plone-backend:6.0.0a4
+FROM plone/plone-backend:6.0.0rc1

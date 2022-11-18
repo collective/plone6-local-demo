@@ -8,8 +8,8 @@ This repo was created to support [Érico Andrei](https://github.com/ericof)'s "W
 
 Currently it uses:
 
-* Plone 6.0.0a4
-* Volto 16.0.0-alpha.7
+* Plone 6.0.0rc1
+* Volto 16.0.0-alpha.51
 * Volto Addons:
 
     * [@eeacms/volto-accordion-block](https://www.npmjs.com/package/@eeacms/volto-accordion-block)
@@ -42,6 +42,7 @@ make stop
 
 ## Used for
 
+* [Plone Symposium South America 2022](https://plone.org.br/eventos/2022/plone-symposium-south-america-2022)
 * [Python Web Conference 2022](https://2022.pythonwebconf.com/presentations/welcome-to-plone-6)
 * [Welcome to Plone 6](https://www.youtube.com/watch?v=16JZPRnkZ9w)
 * [Live de Python](https://www.youtube.com/watch?v=CcYqwUfp6UQ)
